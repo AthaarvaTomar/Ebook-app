@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 📖 OpenLeaf — Flutter eBook App
@@ -230,3 +231,6 @@ Distributed under the **Apache 2.0 License**. See [`LICENSE`](https://github.com
 <div align="center">
   Made with ❤️ using Flutter
 </div>
+=======
+# Ebook-app
+>>>>>>> origin/main
