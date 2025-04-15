@@ -1,0 +1,27 @@
+name: iridium_reader_widget
+description: Plug and play ebook reader widget
+version: 0.0.1
+publish_to: none
+homepage: https://iridium.rocks
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.7.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mno_commons:
+    path: ../components/commons
+  mno_navigator:
+    path: ../components/navigator
+  mno_opds:
+    path: ../components/opds
+  mno_server:
+    path: ../components/server
+  mno_shared:
+    path: ../components/shared
+  mno_streamer:
+    path: ../components/streamer
+  mno_webview:
+    path: ../components/webview

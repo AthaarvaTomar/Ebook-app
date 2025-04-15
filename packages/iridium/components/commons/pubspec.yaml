@@ -1,0 +1,17 @@
+name: mno_commons
+description: This package provide utilities (JSON, io, Href, UriTemplate, etc...) for other mno_xxx packages.
+version: 0.1.2
+homepage: https://github.com/Mantano/mno_commons_dart
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  archive: ^3.3.7
+  crypto: ^3.0.3
+  dartx: ^1.1.0
+  dfunc: ^0.9.0
+  fimber: ^0.6.6
+  path: ^1.8.3
+  universal_io: ^2.2.1

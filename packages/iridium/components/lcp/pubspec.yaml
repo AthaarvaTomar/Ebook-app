@@ -1,0 +1,22 @@
+name: mno_lcp
+description: This package provides a DART LCP layer (native libraries not provided).
+version: 0.1.0
+homepage: https://github.com/Mantano/mno_lcp_dart
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.3.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  crypto: ^3.0.3
+  dartx: ^1.1.0
+  fimber: ^0.6.6
+  path: ^1.8.3
+  pointycastle: ^3.7.3
+  mno_commons:
+    path: ../commons
+  mno_shared:
+    path: ../shared
