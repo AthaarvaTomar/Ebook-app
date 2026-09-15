@@ -189,16 +189,3 @@ lib/
 
 ---
 
-## 📲 Download & Install
-
-| Platform | Link |
-|---|---|
-| 🤖 Android (APK) | [Download from Codemagic](https://codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/latest_build) |
-| 🍎 iOS / macOS (Apple Silicon) | [Download on the App Store](https://apps.apple.com/app/openleaf/id6450374275) |
-
-<a href="https://apps.apple.com/app/openleaf/id6450374275">
-  <img src="https://www.freepnglogos.com/uploads/app-store-logo-png/download-on-the-app-store-logo-png-23.png" width="160" alt="App Store"/>
-</a>
-
----
-
