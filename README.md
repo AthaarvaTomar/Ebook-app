@@ -208,23 +208,10 @@ lib/
   <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=JideGuru/FlutterEbookApp&type=Date"/>
 </a>
 
-> ⭐ Please star the repo if you find it useful — it really helps!
 
 ---
 
-## 🤓 Author
 
-**Festus Babajide Olusegun**
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
-App icon design by [Vecteezy](https://www.vecteezy.com/vector-art/599678-book-reading-logo-and-symbols-template-icons).
-
----
-
-## 🔖 License
-
-Distributed under the **Apache 2.0 License**. See [`LICENSE`](https://github.com/JideGuru/FlutterEbookApp/blob/master/LICENSE) for more information.
 
 ---
 
