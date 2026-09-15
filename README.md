@@ -9,9 +9,6 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
 
-**A beautifully crafted, cross-platform Flutter app to browse, read, and download public domain eBooks — completely free.**
-
-[Download APK](https://codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/latest_build) · [App Store](https://apps.apple.com/app/openleaf/id6450374275) · [Report Bug](https://github.com/JideGuru/FlutterEbookApp/issues) · [Request Feature](https://github.com/JideGuru/FlutterEbookApp/issues)
 
 </div>
 
