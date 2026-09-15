@@ -202,22 +202,3 @@ lib/
 
 ---
 
-## ⭐ Star History
-
-<a href="https://github.com/JideGuru/FlutterEbookApp">
-  <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=JideGuru/FlutterEbookApp&type=Date"/>
-</a>
-
-
----
-
-
-
----
-
-<div align="center">
-  Made with ❤️ using Flutter
-</div>
-=======
-# Ebook-app
->>>>>>> origin/main
