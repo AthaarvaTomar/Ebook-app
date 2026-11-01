@@ -12,7 +12,7 @@ class EpubWebViewListener extends WebViewListener {
   final SpineItemContext _spineItemContext;
   final ViewerSettingsBloc? viewerSettingsBloc;
   final NavigationController navigator;
-  final SelectionListener? selectionListener;
+  final EpubSelectionListener? selectionListener;
   final ValueGetter<Offset>? webViewOffset;
 
   EpubWebViewListener(

@@ -1,7 +1,10 @@
-enum HttpFailure {
-  notFound('404 not found'),
-  unknown('Unknown error');
+class HttpFailure implements Exception {
+  const HttpFailure(this.description);
+
+  static const HttpFailure notFound = HttpFailure('404 not found');
 
   final String description;
-  const HttpFailure(this.description);
+
+  @override
+  String toString() => description;
 }

@@ -14,7 +14,7 @@ dependencies:
   image: ^4.0.17
   universal_io: ^2.2.1
   xml: ^6.3.0
-  archive: ^3.3.7
+  archive: ^3.6.1
   crypto: ^3.0.3
   mno_commons:
     path: ../commons
