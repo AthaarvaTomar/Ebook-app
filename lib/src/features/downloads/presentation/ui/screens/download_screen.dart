@@ -4,7 +4,7 @@ import 'package:auto_route/auto_route.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_ebook_app/src/common/common.dart';
-import 'package:flutter_icons/flutter_icons.dart';
+
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:iridium_reader_widget/views/viewers/epub_screen.dart';
 import 'package:uuid/uuid.dart';
@@ -156,7 +156,7 @@ class _DismissibleBackground extends StatelessWidget {
       alignment: Alignment.centerRight,
       padding: const EdgeInsets.only(right: 20.0),
       color: Colors.red,
-      child: const Icon(Feather.trash_2, color: Colors.white),
+      child: const Icon(Icons.delete, color: Colors.white),
     );
   }
 }

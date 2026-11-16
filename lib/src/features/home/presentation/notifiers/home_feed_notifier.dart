@@ -29,11 +29,11 @@ class HomeFeedNotifier extends _$HomeFeedNotifier {
     final popularFeed = popularFeedSuccessOrFailure.feed;
     final recentFeed = recentFeedSuccessOrFailure.feed;
     if (popularFeed == null) {
-      throw popularFeedSuccessOrFailure.failure!.description;
+      throw popularFeedSuccessOrFailure.failure!;
     }
 
     if (recentFeed == null) {
-      throw recentFeedSuccessOrFailure.failure!.description;
+      throw recentFeedSuccessOrFailure.failure!;
     }
     return (popularFeed: popularFeed, recentFeed: recentFeed);
   }

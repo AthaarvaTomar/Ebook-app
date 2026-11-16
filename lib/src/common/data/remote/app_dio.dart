@@ -8,7 +8,6 @@ class AppDio with DioMixin implements Dio {
     const String baseUrl = baseURL;
     options = BaseOptions(
       baseUrl: baseUrl,
-      contentType: 'application/json',
       connectTimeout: const Duration(milliseconds: 30000),
       sendTimeout: const Duration(milliseconds: 30000),
       receiveTimeout: const Duration(milliseconds: 30000),

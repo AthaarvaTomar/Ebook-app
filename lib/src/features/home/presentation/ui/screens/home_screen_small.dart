@@ -66,9 +66,10 @@ class _HomeScreenSmallState extends ConsumerState<HomeScreenSmall> {
               ),
             );
           },
-          error: (_, __) {
+          error: (error, __) {
             return MyErrorWidget(
               refreshCallBack: () => loadData(),
+              message: error.toString(),
             );
           },
         ),
